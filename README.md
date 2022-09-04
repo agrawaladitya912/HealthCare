@@ -14,7 +14,7 @@ Healthcare is a web application for Sunita Sharma(A 65+ years old) to help her l
 - Health & Wellness
 - 7 tips to live a Healthy lifestyle as a senior citizen
 - Health Articles
-- If Sunita has ate something unhealthy on particular day then appliction suggest workout to burn calories.
+- If Sunita has ate something unhealthy on particular day then appliction suggest workout to burn those calories.
 
 ### Screenshots
 
